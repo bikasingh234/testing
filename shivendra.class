@@ -1,6 +1,8 @@
 class shivendra{
 	public static void main(String[] args){
 		System.out.println("this is the first program in java by me")
-	}
+		System.out.println("this is the second commit") 		
+		System.out.println("this is the third commit")
+		}
 
 }
